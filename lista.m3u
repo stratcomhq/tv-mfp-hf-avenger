@@ -1435,9 +1435,6 @@ https://daddylive.dad/stream/stream-550.php
 #EXTINF:-1 tvg-id="concacafgoldcuppanamavsguadeloupe" tvg-name="Soccer | CONCACAF Gold Cup : Panama vs Guadeloupe (01:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-mfp-hf-avenger/main/logos/Panama_vs_Guadeloupe.png" group-title="Eventi Live",Soccer | CONCACAF Gold Cup : Panama vs Guadeloupe (01:00)
 https://daddylive.dad/stream/stream-66.php
 
-#EXTINF:-1 tvg-id="chileprimeradivisiondeportesiquiquevseverton" tvg-name="Soccer | Chile - Primera Division : Deportes Iquique vs Everton (02:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-mfp-hf-avenger/main/logos/Deportes Iquique_vs_Everton.png" group-title="Eventi Live",Soccer | Chile - Primera Division : Deportes Iquique vs Everton (02:00)
-https://daddylive.dad/stream/stream-642.php
-
 #EXTINF:-1 tvg-id="concacafgoldcupjamaicavsguatemala" tvg-name="Soccer | CONCACAF Gold Cup : Jamaica vs Guatemala (04:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-mfp-hf-avenger/main/logos/Jamaica_vs_Guatemala.png" group-title="Eventi Live",Soccer | CONCACAF Gold Cup : Jamaica vs Guatemala (04:00)
 https://daddylive.dad/stream/stream-39.php
 
@@ -1453,13 +1450,13 @@ https://daddylive.dad/stream/stream-356.php
 #EXTINF:-1 tvg-id="atpwtaatplondonwtaberlinconferenceday1" tvg-name="Tennis | ATP & WTA: ATP London & WTA Berlin Conference, Day 1 (11:30)" tvg-logo="http://assets.stickpng.com/thumbs/62669d1e2c88722059d58717.png" group-title="Eventi Live",Tennis | ATP & WTA: ATP London & WTA Berlin Conference, Day 1 (11:30)
 https://daddylive.dad/stream/stream-46.php
 
-#EXTINF:-1 tvg-id="indycarseriesseasonthebommaritoautomotivegroup500race" tvg-name="Motorsport | IndyCar Series Season The Bommarito Automotive Group 500 Race (02:00)" tvg-logo="https://www.flashscore.ph/res/image/data/UZkVpDiU-8EQKodeU.png" group-title="Eventi Live",Motorsport | IndyCar Series Season The Bommarito Automotive Group 500 Race (02:00)
+#EXTINF:-1 tvg-id="indycarseriesseasonthebommaritoautomotivegroup500race" tvg-name="Motorsport | IndyCar Series Season The Bommarito Automotive Group 500 Race (02:00)" tvg-logo="https://i.pinimg.com/originals/75/ab/1f/75ab1f366d97993c091371e4790e37e3.png" group-title="Eventi Live",Motorsport | IndyCar Series Season The Bommarito Automotive Group 500 Race (02:00)
 https://daddylive.dad/stream/stream-60.php
 
-#EXTINF:-1 tvg-id="indycarseriesseasonthebommaritoautomotivegroup500race" tvg-name="Motorsport | IndyCar Series Season The Bommarito Automotive Group 500 Race (02:00)" tvg-logo="https://www.flashscore.ph/res/image/data/UZkVpDiU-8EQKodeU.png" group-title="Eventi Live",Motorsport | IndyCar Series Season The Bommarito Automotive Group 500 Race (02:00)
+#EXTINF:-1 tvg-id="indycarseriesseasonthebommaritoautomotivegroup500race" tvg-name="Motorsport | IndyCar Series Season The Bommarito Automotive Group 500 Race (02:00)" tvg-logo="https://cms.indycar.com/-/media/IndyCar/Logos/INDYCAR-Dark.png" group-title="Eventi Live",Motorsport | IndyCar Series Season The Bommarito Automotive Group 500 Race (02:00)
 https://daddylive.dad/stream/stream-54.php
 
-#EXTINF:-1 tvg-id="indycarseriesseasonthebommaritoautomotivegroup500race" tvg-name="Motorsport | IndyCar Series Season The Bommarito Automotive Group 500 Race (02:00)" tvg-logo="https://www.flashscore.ph/res/image/data/UZkVpDiU-8EQKodeU.png" group-title="Eventi Live",Motorsport | IndyCar Series Season The Bommarito Automotive Group 500 Race (02:00)
+#EXTINF:-1 tvg-id="indycarseriesseasonthebommaritoautomotivegroup500race" tvg-name="Motorsport | IndyCar Series Season The Bommarito Automotive Group 500 Race (02:00)" tvg-logo="https://cms.indycar.com/-/media/IndyCar/Logos/INDYCAR-Dark.png" group-title="Eventi Live",Motorsport | IndyCar Series Season The Bommarito Automotive Group 500 Race (02:00)
 https://daddylive.dad/stream/stream-768.php
 
 #EXTINF:-1 tvg-id="2025menscollegeworldseriesarkansasvsmurraystate" tvg-name="Baseball | 2025 Men's College World Series : Arkansas vs Murray State (20:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-mfp-hf-avenger/main/logos/Arkansas_vs_Murray State.png" group-title="Eventi Live",Baseball | 2025 Men's College World Series : Arkansas vs Murray State (20:00)
@@ -1477,7 +1474,7 @@ https://daddylive.dad/stream/stream-829.php
 #EXTINF:-1 tvg-id="mlbnewyorkyankeesvslosangelesangels" tvg-name="Baseball | MLB : New York Yankees vs Los Angeles Angels (01:05)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-mfp-hf-avenger/main/logos/New York Yankees_vs_Los Angeles Angels.png" group-title="Eventi Live",Baseball | MLB : New York Yankees vs Los Angeles Angels (01:05)
 https://daddylive.dad/stream/stream-763.php
 
-#EXTINF:-1 tvg-id="mlbtampabayraysvsbaltimoreorioles" tvg-name="Baseball | MLB : Tampa Bay Rays vs Baltimore Orioles (01:35)" tvg-logo="https://content.sportslogos.net/logos/53/52/full/baltimore_orioles_logo_primary_19895183.png" group-title="Eventi Live",Baseball | MLB : Tampa Bay Rays vs Baltimore Orioles (01:35)
+#EXTINF:-1 tvg-id="mlbtampabayraysvsbaltimoreorioles" tvg-name="Baseball | MLB : Tampa Bay Rays vs Baltimore Orioles (01:35)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-mfp-hf-avenger/main/logos/Tampa Bay Rays_vs_Baltimore Orioles.png" group-title="Eventi Live",Baseball | MLB : Tampa Bay Rays vs Baltimore Orioles (01:35)
 https://daddylive.dad/stream/stream-32.php
 
 #EXTINF:-1 tvg-id="mlbseattlemarinersvsbostonredsox" tvg-name="Baseball | MLB : Seattle Mariners vs Boston Red Sox (03:40)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/tv-mfp-hf-avenger/main/logos/Seattle Mariners_vs_Boston Red Sox.png" group-title="Eventi Live",Baseball | MLB : Seattle Mariners vs Boston Red Sox (03:40)
@@ -1507,16 +1504,16 @@ https://daddylive.dad/stream/stream-766.php
 #EXTINF:-1 tvg-id="tourofswitzerlandstage2menaarauschwarzsee177km" tvg-name="Cycling | Tour of Switzerland | Stage 2 Men | Aarau - Schwarzsee (177km) (14:45)" tvg-logo="https://www.magicswitzerland.com/wp-content/uploads/2017/07/grand-tour-of-switzerland-logo.png" group-title="Eventi Live",Cycling | Tour of Switzerland | Stage 2 Men | Aarau - Schwarzsee (177km) (14:45)
 https://daddylive.dad/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="tourofswitzerlandstage2menaarauschwarzsee177km" tvg-name="Cycling | Tour of Switzerland | Stage 2 Men | Aarau - Schwarzsee (177km) (14:45)" tvg-logo="https://www.switzerlandtravelfamily.com/wp-content/uploads/2020/03/Grand-Train-Tour--780x663.png" group-title="Eventi Live",Cycling | Tour of Switzerland | Stage 2 Men | Aarau - Schwarzsee (177km) (14:45)
+#EXTINF:-1 tvg-id="tourofswitzerlandstage2menaarauschwarzsee177km" tvg-name="Cycling | Tour of Switzerland | Stage 2 Men | Aarau - Schwarzsee (177km) (14:45)" tvg-logo="https://www.magicswitzerland.com/wp-content/uploads/2017/07/grand-tour-of-switzerland-logo.png" group-title="Eventi Live",Cycling | Tour of Switzerland | Stage 2 Men | Aarau - Schwarzsee (177km) (14:45)
 https://daddylive.dad/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:45)" tvg-logo="https://watchraces.co.uk/greyhounds/img/red.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:45)
+#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:45)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:45)
 https://daddylive.dad/stream/stream-554.php
 
-#EXTINF:-1 tvg-id="liveracingfromcarlisleandkilbeggan" tvg-name="Horse Racing | Live racing from Carlisle and Kilbeggan (15:15)" tvg-logo="https://threadfather.com/wp-content/uploads/2022/12/Carlisle-Logo-600x699.png" group-title="Eventi Live",Horse Racing | Live racing from Carlisle and Kilbeggan (15:15)
+#EXTINF:-1 tvg-id="liveracingfromcarlisleandkilbeggan" tvg-name="Horse Racing | Live racing from Carlisle and Kilbeggan (15:15)" tvg-logo="https://www.irishracing.com/images/icon.png" group-title="Eventi Live",Horse Racing | Live racing from Carlisle and Kilbeggan (15:15)
 https://daddylive.dad/stream/stream-555.php
 
-#EXTINF:-1 tvg-id="ultimatepoolpairscupmixedgroupstage" tvg-name="Snooker | Ultimate Pool Pairs Cup | Mixed | Group Stage (19:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230403/original/pngtree-a-cup-of-mixed-fruit-salad-png-image_9023020.png" group-title="Eventi Live",Snooker | Ultimate Pool Pairs Cup | Mixed | Group Stage (19:00)
+#EXTINF:-1 tvg-id="ultimatepoolpairscupmixedgroupstage" tvg-name="Snooker | Ultimate Pool Pairs Cup | Mixed | Group Stage (19:00)" tvg-logo="https://img.cuescore.com/image/8/3/8384956f75732bf68ec3a82aa53d8d2c.png" group-title="Eventi Live",Snooker | Ultimate Pool Pairs Cup | Mixed | Group Stage (19:00)
 https://daddylive.dad/stream/stream-31.php
 
 
